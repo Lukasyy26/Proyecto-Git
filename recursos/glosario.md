@@ -4,3 +4,5 @@
 - **HTTP:**protocolo de comuniacion entre navegador y servidor
 
 - **DOM:** representacion de la pagina que Javascript puede modificar
+
+- **COMMIT:** instantanea guardada del proyecto en Git
