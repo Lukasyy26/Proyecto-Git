@@ -6,3 +6,5 @@
 - **DOM:** representacion de la pagina que Javascript puede modificar
 
 - **COMMIT:** instantanea guardada del proyecto en Git
+
+- **Branch:** rama, linea de desarrollo independiente en Git
