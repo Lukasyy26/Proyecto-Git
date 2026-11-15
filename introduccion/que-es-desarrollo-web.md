@@ -2,3 +2,5 @@ el desarrollo web es el proceso de crear sitios web y aplicaciones que funcionan
 -**Frontend:**lo que ve y usa el usuario
 -**Backend:** la lógica, los datos y los servidores
 -**Full stack:** ambas partes
+
+Este documento resume que es el desarrollo web
