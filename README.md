@@ -33,3 +33,6 @@ Las contribuciones son bienvenidas. Abre un issue o envía un pull request con t
 
 Para contribuir, haz un fork del repositorio, crea una rama y envía un pull request.
 
+### Recursos
+
+- [Glosario](recursos/glosario.md)
