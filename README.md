@@ -10,3 +10,13 @@ Fecha creación: 15/11/2026
 - [Historia](introduccion/historia.md)
 - [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 
+### Backend
+
+- [Servidores](backend/servidores.md)
+- [Bases de datos](backend/bases-de-datos.md)
+- [APIs REST](backend/apis-rest.md)
+- [Seguridad](backend/seguridad.md)
+
+## Contribuciones
+
+Para contribuir, haz un fork del repositorio, crea una rama y envía un pull request.
