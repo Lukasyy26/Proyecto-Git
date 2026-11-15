@@ -10,6 +10,7 @@ Fecha creación: 15/11/2026
 - [Historia](introduccion/historia.md)
 - [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 
+
 ### Frontend
 
 - [HTML básico](frontend/html-basico.md)
@@ -20,3 +21,15 @@ Fecha creación: 15/11/2026
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Abre un issue o envía un pull request con tus propuestas.
+
+### Backend
+
+- [Servidores](backend/servidores.md)
+- [Bases de datos](backend/bases-de-datos.md)
+- [APIs REST](backend/apis-rest.md)
+- [Seguridad](backend/seguridad.md)
+
+## Contribuciones
+
+Para contribuir, haz un fork del repositorio, crea una rama y envía un pull request.
+
