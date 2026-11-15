@@ -2,3 +2,5 @@
 -**CSS:** lenguaje de estilos para dar formatos a las paginas
 
 - **HTTP:**protocolo de comuniacion entre navegador y servidor
+
+- **DOM:** representacion de la pagina que Javascript puede modificar
