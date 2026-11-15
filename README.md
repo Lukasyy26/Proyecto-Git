@@ -16,3 +16,7 @@ Fecha creación: 15/11/2026
 - [CSS avanzado](frontend/css-avanzado.md)
 - [JavaScript moderno](frontend/javascript-moderno.md)
 - [Frameworks](frontend/frameworks.md)
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Abre un issue o envía un pull request con tus propuestas.
