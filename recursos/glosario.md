@@ -1,2 +1,4 @@
 - **HTML:** lenguaje de marcado para estructurar paginas web
 -**CSS:** lenguaje de estilos para dar formatos a las paginas
+
+- **HTTP:**protocolo de comuniacion entre navegador y servidor
